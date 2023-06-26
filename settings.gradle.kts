@@ -1,0 +1,1 @@
+rootProject.name = "com.signup.ktor-signup"
